@@ -6,7 +6,7 @@ function parimpar(n){
     }
 }
 
-/* var res = parimpar(4)
-console.log(`O numero é ${res}!`)*/
+// var res = parimpar(4)
+//console.log(`O numero é ${res}!`)
 
 console.log(parimpar(25))
